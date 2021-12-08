@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Lenny</h1>
 <h3 align="left">I'm a fullstack web developer and IoT developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Fullstack Javascript from The-Odin-Project](https://www.theodinproject.com/courses/javascript)
+- 🔭 I’m currently working on Web Based IoT dashboards
 
 - 🌱 I’m currently learning **MERN stack**
 
