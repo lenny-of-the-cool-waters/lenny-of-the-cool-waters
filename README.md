@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Lenny</h1>
 <h3 align="left">I'm a fullstack web developer and IoT developer from Kenya</h3>
 
-- 🔭 I’m currently working on Web Based IoT dashboards
+- 🔭 I’m currently Fullstack Web Developer (**MERN stack**) and IoT developer
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **web development and IoT**
-
-- 📫 How to reach me **lennygith@gmail.com**
+- 💬 Ask me about **Web development and IoT**
 
 - ⚡ Fun fact **Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “free lancers.”**
 
