@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Lenny</h1>
 <h3 align="left">I'm a fullstack web developer and IoT developer from Kenya</h3>
 
-- 🔭 I’m currently a Fullstack Web Developer (**MERN stack**) and IoT developer
+- 🔭 I’m currently a Fullstack Web Developer (**MERN stack, MySQL, MsSQL**) and IoT developer
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Microsoft .NET**
 
 - 💬 Ask me about **Web development and IoT**
 
